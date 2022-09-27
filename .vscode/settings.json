@@ -1,6 +1,9 @@
 {
     "java.project.sourcePaths": [
         "projects/firstProject",
-        "framework"
+        "framework",
+        "projects/saveMyHeart",
+        "APCS",
+        "projects"
     ]
 }
